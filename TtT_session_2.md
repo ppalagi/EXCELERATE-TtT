@@ -36,7 +36,7 @@ How can you use classroom space to turn challenges into opportunities for learni
 While a lecture or presentation mode can be used to kick-start a session, it can easily be followed by directing students to move to a different learning mode, to access content, their peers and the instructors to support learning. This dynamic interface stimulates both participants and instructors. 
 
 Small groups, team-based exercises, and collaborative endeavours support a variety of learning modes.
-Make sure to use clear and well developed protcolos that minimise any loss of time or productivity.
+Make sure to use clear and well developed protocols that minimise any loss of time or productivity.
 You can leverage multiple learning/teaching modes; indeed, fostering a high order of thinking skills is far more successful when students are given multiple ways to process information.  The variety of tools, flexibility of place to work and a range of people, including instructors, to network with at various intervals empower individuals and generate mutual trust. Provide students easier access to you (the instructor).
 
 Try to give up the position of the "sage on the stage", to become the "guide on the side". This makes learners feel free to interact, ask questions, tell they got lost (when they are) and allows you to better understand what problems participants have,  work individually with those in need of help, and use your time to focus and (re)explain what was not well received.
