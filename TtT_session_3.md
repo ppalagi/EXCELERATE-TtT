@@ -64,7 +64,7 @@ In this session you will learn how to:
 - [VUE](http://vue.tufts.edu/) - (visual understanding environment) - to download (work offline), individual
 - [draw.io](https://www.draw.io/) - (online, open-source, no login or registration required, store on Github, Google Drive, OneDrive, Dropbox or locally) - Several examples to edit and start with.
 
-<a name="sessi(ons"></a>
+<a name="sessions"></a>
 ## Training session design and plan
 
 **Description**: This sequence describes the steps to define a coherent session plan.
