@@ -62,6 +62,7 @@ In this session you will learn how to:
 - [Gliffy](https://www.gliffy.com/) - (online, collaboratif with login, synchronous) - Several examples to edit and start with.
 - [Cmap Tools from Novak](http://cmap.ihmc.us/cmaptools/) - to download (Windows only), individual
 - [VUE](http://vue.tufts.edu/) - (visual understanding environment) - to download (work offline), individual
+- [draw.io](https://www.draw.io/) - (online, open-source, no login or registration required, store on Github, Google Drive, OneDrive, Dropbox or locally) - Several examples to edit and start with.
 
 <a name="sessions"></a>
 ## Training session design and plan
