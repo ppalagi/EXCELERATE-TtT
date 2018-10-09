@@ -161,7 +161,7 @@ In the context of training, we will prefer to use the term **instructor** instea
 
 ### Adult learning or andragogy
 
->###Challenge: what learner are you today?
+>### Challenge: what learner are you today?
 > Think about your experience as a learner when you were at school, and now in this course. Write one thing in which you feel different as a learner today from the learner you were at school.
 > Write it on a sticky note
 > 
@@ -318,7 +318,7 @@ This implies that instructors have to pay particular attention to this need and 
 - **Principle P1**:	Students' prior knowledge can help or hinder learning.
 - **Principle P2**:	How students organise knowledge influences how they learn and apply what they know.
 
-####How can prior knowledge hinder learning? 
+#### How can prior knowledge hinder learning? 
 
 In many cases, prior knowledge is incomplete or inaccurate. Inaccurate beliefs can be termed “misconceptions” and can impede learning by making it more difficult for learners to incorporate new, correct information into their mental models.
 
@@ -359,15 +359,15 @@ The fact that working memory has limited space, implies that thinking becomes in
 
 In order to facilitate comprehension, thinking and learning, it is necessary to make room in working memory. This makes it easier to relate ideas, and therefore to comprehend and critically think. 
 
-###What can we do to make room in working memory?
+### What can we do to make room in working memory?
 
 - Increase our background knowledge
 - Avoid extraneous cognitive load
 
-####Increase our background knowledge
+#### Increase our background knowledge
 We can increase background knowledge (both factual and procedural). Indeed, it has been shown that background knowledge is essential to reading comprehension, critical thinking and is necessary for cognitive skills and learning. 
 
->###Challenge (Willingham, 2009): How many letters can you remember?
+>### Challenge (Willingham, 2009): How many letters can you remember?
 >X C N <br>
 >N P H <br>
 >D F B <br>
@@ -471,7 +471,7 @@ Active learning requires students to participate in class, as opposed to sitting
 
 Active learning is anything course-related that all students in a class session are called upon to do other than simply watching, listening and taking notes ([Felder and Brent, 2011](./doc/active_learning_an_introduction.pdf)).
 
-> ###Further reading and watching:
+> ### Further reading and watching:
 > 
 > * R.M. Felder and R. Brent "Active learning: an introduction" ([PDF](./doc/active_learning_an_introduction.pdf))
 > * Michael Prince - Does Active Learning Work? A Review 
